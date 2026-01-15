@@ -2,6 +2,8 @@
 
 **ClipFlow** is a powerful desktop application for efficient video trimming and batch processing, built with Python, PyQt6, and libmpv. It simplifies the workflow of selecting segments from multiple videos, managing groups of clips, and exporting them with precision.
 
+![ClipFlow Screenshot](screenshots/preview.png)
+
 ## Features
 
 - **Batch Processing**: Organize videos into groups and apply edits across multiple files.
